@@ -1,0 +1,48 @@
+Generated Bids: 
+(traderName, bidID, bidType, price, quantity)
+(Buyer0,      0,       B,     99.42,     38)
+(Buyer1,      1,       B,     146.4,     45)
+(Buyer2,      2,       B,    126.02,     49)
+(Buyer3,      3,       B,     115.7,     27)
+(Buyer4,      4,       B,    104.46,     43)
+(Buyer5,      5,       B,    144.18,     46)
+(Buyer6,      6,       B,     57.39,     32)
+(Buyer7,      7,       B,     80.68,      4)
+(Buyer8,      8,       B,    148.62,     19)
+(Buyer9,      9,       B,     50.68,     29)
+(Seller0,     10,      A,     89.98,      4)
+(Seller1,     11,      A,     88.63,     15)
+(Seller2,     12,      A,    125.17,     30)
+(Seller3,     13,      A,      70.1,     23)
+(Seller4,     14,      A,    121.25,     39)
+(Seller5,     15,      A,     71.46,     16)
+(Seller6,     16,      A,    115.89,     11)
+(Seller7,     17,      A,     69.14,     25)
+(Seller8,     18,      A,     77.54,     48)
+(Seller9,     19,      A,    130.92,     39)
+
+ Matched Bids: 
+(Buyer8,      8,       B,    148.62,     19) <=> (Seller7,     17,      A,     69.14,     19) with Clearing Price: 108.88
+(Buyer5,      5,       B,    144.18,     23) <=> (Seller3,     13,      A,      70.1,     23) with Clearing Price: 107.14
+(Buyer2,      2,       B,    126.02,     48) <=> (Seller8,     18,      A,     77.54,     48) with Clearing Price: 101.78
+(Buyer3,      3,       B,     115.7,      4) <=> (Seller0,     10,      A,     89.98,      4) with Clearing Price: 102.84
+(Buyer1,      1,       B,     146.4,      6) <=> (Seller7,     17,      A,     69.14,      6) with Clearing Price: 107.77
+(Buyer5,      5,       B,    144.18,     15) <=> (Seller1,     11,      A,     88.63,     15) with Clearing Price: 116.405
+(Buyer2,      2,       B,    126.02,      1) <=> (Seller4,     14,      A,    121.25,      1) with Clearing Price: 123.635
+(Buyer1,      1,       B,     146.4,     16) <=> (Seller5,     15,      A,     71.46,     16) with Clearing Price: 108.93
+(Buyer5,      5,       B,    144.18,      8) <=> (Seller4,     14,      A,    121.25,      8) with Clearing Price: 132.715
+(Buyer1,      1,       B,     146.4,     11) <=> (Seller6,     16,      A,    115.89,     11) with Clearing Price: 131.145
+(Buyer1,      1,       B,     146.4,     12) <=> (Seller4,     14,      A,    121.25,     12) with Clearing Price: 133.825
+
+ Unmatched Buy Bids: 
+(Buyer3,      3,       B,     115.7,     23)
+(Buyer4,      4,       B,    104.46,     43)
+(Buyer0,      0,       B,     99.42,     38)
+(Buyer7,      7,       B,     80.68,      4)
+(Buyer6,      6,       B,     57.39,     32)
+(Buyer9,      9,       B,     50.68,     29)
+
+ Unmatched Sell Bids: 
+(Seller4,     14,      A,    121.25,     18)
+(Seller2,     12,      A,    125.17,     30)
+(Seller9,     19,      A,    130.92,     39)
